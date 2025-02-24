@@ -61,6 +61,6 @@ public class cpu {
         obj1.display();
         obj3.display();
 
-        sc.close();
+        //sc.close();
     }
 }
